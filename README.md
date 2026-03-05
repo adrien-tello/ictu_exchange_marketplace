@@ -5,8 +5,8 @@ The application directly addresses two major student pain points: the high cost 
 
 👥 Project Team
 Role	Name
-Developer	FANYI CHARLLSON FANYI
-Tester	TELLO KOMBOU ADRIEN NATHAN
+Developer	 TELLO KOMBOU ADRIEN NATHAN
+Tester	FANYI CHARLLSON FANYI
 🚀 Key Features
 Verified Student Marketplace A dedicated trading hub for academic and campus essentials, restricted to verified ICTU students.
 
